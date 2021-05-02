@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'IBMPlexSerif-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('IBMPlexSerif-Regular'),
+    url('../fonts/IBMPlexSerif-Regular.woff2') format('woff2'),
+    url('../fonts/IBMPlexSerif-Regular.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'IBMPlexSerif-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('IBMPlexSerif-Bold'),
+    url('../fonts/IBMPlexSerif-Bold.woff2') format('woff2'),
+    url('../fonts/IBMPlexSerif-Bold.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-ThinItalic';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto-ThinItalic'),
+    url('../fonts/Roboto-ThinItalic.woff2') format('woff2'),
+    url('../fonts/Roboto-ThinItalic.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Roboto-Regular'),
+    url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Roboto-Bold'),
+    url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff');
+  font-display: swap;
+}
